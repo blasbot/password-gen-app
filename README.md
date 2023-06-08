@@ -1,4 +1,4 @@
-# password-gen-app
+# password generate app
 
 LINK
 
